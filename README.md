@@ -1,5 +1,5 @@
-# Java
-Um repositório voltado para estudo da linguagem Java
+# Linguagem C++
+Um repositório voltado para estudo da linguagem C++
 
 # Conhecimentos utilizados:
 <div style="display: flex;">
